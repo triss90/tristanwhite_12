@@ -1,0 +1,20 @@
+.catalogue-title {
+    .tags {
+        font-size: 0.7rem;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: $blue;
+        font-style: italic;
+        font-family: $serif-secondary;
+    }
+}
+
+.post {
+    .tags {
+        color: $blue;
+        font-style: italic;
+        font-family: $serif-secondary;
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
